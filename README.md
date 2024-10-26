@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EasonYang7
+- 👋 Hi, I’m Eason
 - 👀 I’m interested in Robotics and Coding!
 - 🌱 I’m currently learning Robotics and Coding too!
 - 💞️ I’m looking to collaborate on nothing at the moment :(
