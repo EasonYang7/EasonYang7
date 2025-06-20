@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Eason
-- 👀 I’m interested in Robotics and Coding!
-- 🌱 I’m currently learning Robotics and Coding too!
-- 💞️ I’m looking to collaborate on nothing at the moment :(
+- 👀 I’m interested in exploring new Engineering Concepts!
+- 🌱 I’m currently learning Robotics!
+- 💞️ I’m looking to collaborate on anything at the moment :)
 - 📫 How to reach me: Any Social which works best for you :D
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love school :)
+- ⚡ Fun fact: I love socializing!
 
 <!---
 EasonYang7/EasonYang7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
